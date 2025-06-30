@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/snakequest-real-time-web-arcade-95815-a5659506/django_backend"
+}
